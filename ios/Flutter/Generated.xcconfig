@@ -1,0 +1,10 @@
+// This is a generated file; do not edit or check into version control.
+FLUTTER_ROOT=/Users/imac/Documents/FlutterIO/flutter
+FLUTTER_APPLICATION_PATH=/Users/imac/Documents/GitHub/gvv/TripUp-Flutter.IO
+FLUTTER_TARGET=/Users/imac/Documents/GitHub/gvv/TripUp-Flutter.IO/lib/main.dart
+FLUTTER_BUILD_DIR=build
+SYMROOT=${SOURCE_ROOT}/../build/ios
+FLUTTER_FRAMEWORK_DIR=/Users/imac/Documents/FlutterIO/flutter/bin/cache/artifacts/engine/ios
+FLUTTER_BUILD_NAME=1.0.0
+FLUTTER_BUILD_NUMBER=1
+TRACK_WIDGET_CREATION=true

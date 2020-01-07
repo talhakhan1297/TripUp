@@ -1,0 +1,4 @@
+#Fri Nov 22 09:52:33 PKT 2019
+base.0=E\:\\GitHub\\gv\\TripUp-Flutter.IO\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

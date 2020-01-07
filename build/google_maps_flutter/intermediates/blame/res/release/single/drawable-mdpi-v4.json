@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "E:\\GitHub\\gv\\TripUp-Flutter.IO\\build\\google_maps_flutter\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "C:\\Users\\Isekai Technology IT\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-17.0.0.aar\\811bc7f085b29ce9e3d9162d1fc0f130\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "E:\\GitHub\\gv\\TripUp-Flutter.IO\\build\\google_maps_flutter\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\Isekai Technology IT\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\6fdaa33d2250e59f69ce82272bdc98ea\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "E:\\GitHub\\gv\\TripUp-Flutter.IO\\build\\google_maps_flutter\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "C:\\Users\\Isekai Technology IT\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-17.0.0.aar\\811bc7f085b29ce9e3d9162d1fc0f130\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "E:\\GitHub\\gv\\TripUp-Flutter.IO\\build\\google_maps_flutter\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "C:\\Users\\Isekai Technology IT\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-17.0.0.aar\\811bc7f085b29ce9e3d9162d1fc0f130\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "E:\\GitHub\\gv\\TripUp-Flutter.IO\\build\\google_maps_flutter\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\googleg_standard_color_18.png",
+        "source": "C:\\Users\\Isekai Technology IT\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-17.0.0.aar\\811bc7f085b29ce9e3d9162d1fc0f130\\res\\drawable-mdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "E:\\GitHub\\gv\\TripUp-Flutter.IO\\build\\google_maps_flutter\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "C:\\Users\\Isekai Technology IT\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-17.0.0.aar\\811bc7f085b29ce9e3d9162d1fc0f130\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "E:\\GitHub\\gv\\TripUp-Flutter.IO\\build\\google_maps_flutter\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\Isekai Technology IT\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\6fdaa33d2250e59f69ce82272bdc98ea\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "E:\\GitHub\\gv\\TripUp-Flutter.IO\\build\\google_maps_flutter\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\Isekai Technology IT\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\6fdaa33d2250e59f69ce82272bdc98ea\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "E:\\GitHub\\gv\\TripUp-Flutter.IO\\build\\google_maps_flutter\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\Isekai Technology IT\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\6fdaa33d2250e59f69ce82272bdc98ea\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "E:\\GitHub\\gv\\TripUp-Flutter.IO\\build\\google_maps_flutter\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\googleg_disabled_color_18.png",
+        "source": "C:\\Users\\Isekai Technology IT\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-17.0.0.aar\\811bc7f085b29ce9e3d9162d1fc0f130\\res\\drawable-mdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "E:\\GitHub\\gv\\TripUp-Flutter.IO\\build\\google_maps_flutter\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\Isekai Technology IT\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\6fdaa33d2250e59f69ce82272bdc98ea\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    }
+]
